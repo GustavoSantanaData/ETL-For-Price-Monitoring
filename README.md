@@ -25,9 +25,6 @@ A Python ETL for Web Scraping
 
 ![architecture](/pics/architecture.png)
 
-### Excalidraw
-
-[Excalidraw](https://link.excalidraw.com/l/8pvW6zbNUnD/4qYJqXpeRfP)
 
 ### Directory Structure
 
