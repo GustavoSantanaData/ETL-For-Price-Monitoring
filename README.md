@@ -1,6 +1,4 @@
-Sure, here's the translated README for your project:
 
----
 
 # ScrapyPriceMonitoring
 
